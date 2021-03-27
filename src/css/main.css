@@ -133,3 +133,9 @@ table tr td{
     height: auto;
     border: 5px solid #555;
 }
+
+.general-content a {
+    border:3px; 
+    border-style:solid; 
+    border-color:#287EC7;
+}
